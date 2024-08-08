@@ -1,0 +1,7 @@
+openpyxl
+python-docx
+langchain
+langchain-openai
+langchain-community
+pandas
+faiss-cpu
